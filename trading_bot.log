@@ -1,0 +1,59 @@
+2025-04-22 18:29:21,748 INFO Screenshot saved to: C:\Users\Esha\Desktop\tradingview_mailbot\screens\20250422_1829_21_488eea6746db4594a969c69835516007.png
+2025-04-22 18:29:21,769 INFO Trying GPT model gpt-4o-mini for analysis
+2025-04-22 18:29:31,572 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:33:28,903 INFO Found TradingView window: Dark-Themed UI with Claude and GPT Selector for TradingView Bot - Claude - Google Chrome
+2025-04-22 18:33:29,492 INFO Screenshot saved to: C:\Users\Esha\Desktop\tradingview_mailbot\screens\20250422_1833_29_6a7d9f3cecb746a381f3ac355997701a.png
+2025-04-22 18:33:29,502 INFO Trying GPT model gpt-4o-mini for analysis
+2025-04-22 18:33:36,109 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:34:19,682 ERROR TradingView window not found!
+2025-04-22 18:34:19,682 ERROR Error in cycle: TradingView window not found. Make sure it's open.
+Traceback (most recent call last):
+  File "C:\Users\Esha\Desktop\tradingview_mailbot\run_ui.py", line 312, in run_single_cycle
+    screenshot_path = grab_tradingview_window()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Esha\Desktop\tradingview_mailbot\src\screenshot.py", line 64, in grab_tradingview_window
+    raise Exception("TradingView window not found. Make sure it's open.")
+Exception: TradingView window not found. Make sure it's open.
+2025-04-22 18:34:28,781 ERROR TradingView window not found!
+2025-04-22 18:34:28,781 ERROR Error in cycle: TradingView window not found. Make sure it's open.
+Traceback (most recent call last):
+  File "C:\Users\Esha\Desktop\tradingview_mailbot\run_ui.py", line 312, in run_single_cycle
+    screenshot_path = grab_tradingview_window()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Esha\Desktop\tradingview_mailbot\src\screenshot.py", line 64, in grab_tradingview_window
+    raise Exception("TradingView window not found. Make sure it's open.")
+Exception: TradingView window not found. Make sure it's open.
+2025-04-22 18:43:33,201 INFO Bot UI minimized
+2025-04-22 18:43:34,334 INFO Screenshot saved to: C:\Users\Esha\Desktop\tradingview_mailbot\screens\20250422_1843_34_02483eebba594a358b2e717d6a81a65d.png
+2025-04-22 18:43:34,337 INFO Trying GPT model gpt-4o-mini for analysis
+2025-04-22 18:43:41,999 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:50:23,894 INFO Bot UI minimized
+2025-04-22 18:50:25,003 INFO Screenshot saved to: C:\Users\Esha\Desktop\tradingview_mailbot\screens\20250422_1850_24_2d9edcfe0d4e4a9396b8f8e870ab52c6.png
+2025-04-22 18:50:25,014 INFO Trying GPT model gpt-4o-mini for analysis
+2025-04-22 18:50:33,737 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 18:51:02,478 INFO Bot UI minimized
+2025-04-22 18:51:03,597 INFO Screenshot saved to: C:\Users\Esha\Desktop\tradingview_mailbot\screens\20250422_1851_03_a7c123ee5ffb425e992af47b5ba132bf.png
+2025-04-22 18:51:03,608 INFO Trying GPT model gpt-4o-mini for analysis
+2025-04-22 18:51:10,207 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 19:10:42,899 INFO Bot UI minimized
+2025-04-22 19:10:43,421 ERROR TradingView window not found!
+2025-04-22 19:10:43,422 ERROR TradingView window not found. Make sure it's open.
+Traceback (most recent call last):
+  File "C:\Users\Esha\Desktop\tradingview_mailbot\run_ui.py", line 312, in run_single_cycle
+    screenshot_path = grab_tradingview_window()
+  File "C:\Users\Esha\Desktop\tradingview_mailbot\src\screenshot.py", line 119, in grab_tradingview_window
+    raise Exception("TradingView window not found. Make sure it's open.")
+Exception: TradingView window not found. Make sure it's open.
+2025-04-22 19:10:52,758 INFO Bot UI minimized
+2025-04-22 19:10:53,281 ERROR TradingView window not found!
+2025-04-22 19:10:53,282 ERROR TradingView window not found. Make sure it's open.
+Traceback (most recent call last):
+  File "C:\Users\Esha\Desktop\tradingview_mailbot\run_ui.py", line 312, in run_single_cycle
+    screenshot_path = grab_tradingview_window()
+  File "C:\Users\Esha\Desktop\tradingview_mailbot\src\screenshot.py", line 119, in grab_tradingview_window
+    raise Exception("TradingView window not found. Make sure it's open.")
+Exception: TradingView window not found. Make sure it's open.
+2025-04-22 19:10:57,831 INFO Bot UI minimized
+2025-04-22 19:10:58,930 INFO Screenshot saved to: C:\Users\Esha\Desktop\tradingview_mailbot\screens\20250422_1910_58_91d47e9ccea6424abb8dac45a7adad86.png
+2025-04-22 19:10:58,939 INFO Trying GPT model gpt-4o-mini for analysis
+2025-04-22 19:11:07,320 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
